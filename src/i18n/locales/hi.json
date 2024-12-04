@@ -1,0 +1,38 @@
+{
+  "common": {
+    "submit": "जमा करें",
+    "cancel": "रद्द करें",
+    "save": "सहेजें",
+    "edit": "संपादित करें",
+    "delete": "हटाएं",
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफलता"
+  },
+  "business": {
+    "profile": {
+      "title": "व्यवसाय प्रोफ़ाइल",
+      "gstin": "जीएसटीआईएन",
+      "pan": "पैन",
+      "businessName": "व्यवसाय का नाम",
+      "businessType": "व्यवसाय का प्रकार",
+      "yearEstablished": "स्थापना वर्ष",
+      "annualRevenue": "वार्षिक राजस्व",
+      "industryType": "उद्योग का प्रकार",
+      "address": "पंजीकृत पता",
+      "state": "राज्य",
+      "pincode": "पिन कोड"
+    }
+  },
+  "loan": {
+    "application": {
+      "title": "ऋण आवेदन",
+      "amount": "अनुरोधित राशि",
+      "purpose": "वित्त पोषण का उद्देश्य",
+      "term": "अवधि (महीने)",
+      "frequency": "भुगतान आवृत्ति",
+      "documents": "आवश्यक दस्तावेज़",
+      "submit": "आवेदन जमा करें"
+    }
+  }
+}

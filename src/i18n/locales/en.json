@@ -1,0 +1,38 @@
+{
+  "common": {
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "business": {
+    "profile": {
+      "title": "Business Profile",
+      "gstin": "GSTIN",
+      "pan": "PAN",
+      "businessName": "Business Name",
+      "businessType": "Business Type",
+      "yearEstablished": "Year Established",
+      "annualRevenue": "Annual Revenue",
+      "industryType": "Industry Type",
+      "address": "Registered Address",
+      "state": "State",
+      "pincode": "Pincode"
+    }
+  },
+  "loan": {
+    "application": {
+      "title": "Loan Application",
+      "amount": "Requested Amount",
+      "purpose": "Purpose of Funding",
+      "term": "Term Length (months)",
+      "frequency": "Payment Frequency",
+      "documents": "Required Documents",
+      "submit": "Submit Application"
+    }
+  }
+}
